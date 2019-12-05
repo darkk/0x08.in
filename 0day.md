@@ -1,3 +1,10 @@
+---
+
+layout: index
+title: index
+
+---
+
 # 0 day party
 
 _27.10.19 18:00_
@@ -11,6 +18,7 @@ _27.10.19 18:00_
 
 Мероприятие состоялось!
 
+* [Тезисы докладов](/0day_briefs.md)
 * [Презентация #1: что такое B4CKSP4CE](https://docs.google.com/presentation/d/13yH5ORLmzXfr8_hh0RWqnETC_9dAGSuhNuTVGHkqElQ/edit?usp=sharing)
 * [Презентация #2: принципы и правила B4CKSP4CE](https://docs.google.com/presentation/d/15QmO4RyrVHPxPePGqlUgdkoIN-9Y-p9oDBVhfDNkyYc/edit?usp=sharing)
 
